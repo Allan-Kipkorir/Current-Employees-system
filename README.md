@@ -2,30 +2,24 @@
 
 A **Python-based** Employee Management System using Object-Oriented Programming (OOP) and CSV file storage. This system allows you to **add, view, update, delete, search, sort, and save employee records** via a **simple menu interface.**
 
-**Features**
+**Features:**
 
-Add new employees with validated inputs
+1.  Add new employees with validated inputs
+2.  View all employees in a formatted display
+3.  Update employee details
+4.  Delete employee records
+5.  Search employees by name
+6.  Sort employees alphabetically
+7.  Save and load employee data using CSV
 
-View all employees in a formatted display
-
-Update employee details
-
-Delete employee records
-
-Search employees by name
-
-Sort employees alphabetically
-
-Save and load employee data using CSV
-
-**Prerequisites**
+**Prerequisites:**
 
 
 Python 3.x installed on your system
 
 Basic understanding of running Python scripts
 
-Installation
+**Installation**
 
 Clone or download this repository or save the Employee class code to a .py file, e.g., employee_system.py.
 
