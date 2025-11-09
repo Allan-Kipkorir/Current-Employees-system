@@ -1,7 +1,9 @@
 **Employee Management System**
+
 A **Python-based** Employee Management System using Object-Oriented Programming (OOP) and CSV file storage. This system allows you to **add, view, update, delete, search, sort, and save employee records** via a **simple menu interface.**
 
 **Features**
+
 Add new employees with validated inputs
 
 View all employees in a formatted display
@@ -18,6 +20,7 @@ Save and load employee data using CSV
 
 **Prerequisites**
 
+
 Python 3.x installed on your system
 
 Basic understanding of running Python scripts
@@ -30,15 +33,19 @@ Ensure the same directory has a CSV file named Current_Employees.csv for persist
 
 **Usage**
 
+
 Open a terminal or command prompt.
 
 Navigate to the directory containing employee_system.py.
 
 **Run the program:**
+
+
 python employee_system.py
 
 
 **Follow the on-screen menu options:**
+
 
 1. Add New Employee
 2. View All Employees
@@ -51,9 +58,12 @@ python employee_system.py
 
 **Enter the number corresponding to the action you want to perform.**
 
+
 **Upon exiting, the system will automatically save all employee data to Current_Employees.csv.**
 
+
 **Notes**
+
 
 Employee **names** must be unique; the system will prompt if a duplicate is entered.
 
